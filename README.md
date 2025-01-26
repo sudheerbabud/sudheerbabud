@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheerbabud&label=Profile%20views&color=0e75b6&style=flat" alt="sudheerbabud" /> </p>
 
-- 🌱 I’m currently learning **Spring, Spring Boot Frameworks**
+- 🌱 I’m currently learning **Spring, Spring Boot, React Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://sudheerbabudoddakulaportfolio.netlify.app/](https://sudheerbabudoddakulaportfolio.netlify.app/)
 
